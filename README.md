@@ -1,4 +1,4 @@
-Hello guys!! This is the GitHub account to share all of our developments and contributions to the capstone project. I request you to add adequate comments before you 'commit' your code. Also, please take tutorial on how github works before you start working on this.
+Hello guys!! This is the GitHub account to share all of our developments and contributions to the capstone project. I request you to add adequate comments before you 'commit' your code.
 Thanks!!!
 
 <!---
